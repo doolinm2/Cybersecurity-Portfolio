@@ -1,16 +1,16 @@
-# 🛡️ Google Cybersecurity Certificate Portfolio
+# Google Cybersecurity Certificate Portfolio
 
 Welcome! This repository highlights my completion of the **[Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)**, a comprehensive program designed to prepare individuals for entry-level roles in cybersecurity. It covers essential skills in threat analysis, security operations, system hardening, network defense, and incident response.
 
 This README outlines:
 
-* ✅ What I learned in each course
-* 💡 Practical applications of each skill
-* 🔧 Projects I’ve already implemented
+*  What I learned in each course
+*  Practical applications of each skill
+*  Projects I’ve already implemented
 
 ---
 
-## 📚 Certificate Overview
+##  Certificate Overview
 
 The Google Cybersecurity Certificate is made up of **8 in-depth courses**:
 
@@ -140,26 +140,26 @@ The Google Cybersecurity Certificate is made up of **8 in-depth courses**:
 
 ---
 
-## 🚧 Projects (In Progress or Completed)
+##  Projects (In Progress or Completed)
 
 Here are a few repositories that tie directly to what I learned:
 
-* 🔍 **Log Analysis Script** – Automates log filtering and highlights anomalies using Bash & Python
-* 📡 **Network Scanner Tool** – Lightweight network scanner using Nmap and Python
-* 🧰 **SIEM Simulation** – Sample Splunk queries and dashboard designs from training labs
-* 🧪 **Vulnerability Reports** – Example scan reports and documentation for remediation planning
+*  **Log Analysis Script** – Automates log filtering and highlights anomalies using Bash & Python
+*  **Network Scanner Tool** – Lightweight network scanner using Nmap and Python
+*  **SIEM Simulation** – Sample Splunk queries and dashboard designs from training labs
+*  **Vulnerability Reports** – Example scan reports and documentation for remediation planning
 
 ---
 
-## 🎯 Goals & Next Steps
+##  Goals & Next Steps
 
-* 🎓 Continue hands-on practice with TryHackMe and Hack The Box labs
-* 🔐 Earn CompTIA Security+ or other vendor-neutral certifications
-* 💼 Land a cybersecurity analyst or SOC Tier 1 role at a mission-driven company
+*  Continue hands-on practice with TryHackMe and Hack The Box labs
+*  Earn CompTIA Security+ or other vendor-neutral certifications
+*  Land a cybersecurity analyst or SOC Tier 1 role at a mission-driven company
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 If you're hiring or looking to collaborate on beginner-friendly security projects:
 
